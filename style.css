@@ -1,1 +1,5 @@
-@import
+@import url(bootstrap.css);
+
+body {
+     background-color: Crimson;
+}
